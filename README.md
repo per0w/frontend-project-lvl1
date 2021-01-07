@@ -8,3 +8,6 @@
 [![asciicast](https://asciinema.org/a/yeXKOBncrWfUrLkWyiz3DoObb.svg)](https://asciinema.org/a/yeXKOBncrWfUrLkWyiz3DoObb)
 ## Game brain-calc:
 [![asciicast](https://asciinema.org/a/ZWqhMeyhJTNH5lQ6umSTgMcRx.svg)](https://asciinema.org/a/ZWqhMeyhJTNH5lQ6umSTgMcRx)
+
+## Game brain-gcd
+[![asciicast](https://asciinema.org/a/CHXLdaHAqaLyNsPHtjqpllSJT.svg)](https://asciinema.org/a/CHXLdaHAqaLyNsPHtjqpllSJT)
